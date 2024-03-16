@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a detail-oriented Computer Science student with a passion for coding and a penchant for problem-solving. By day, I'm immersed in the world of algorithms and data structures, and by night, I'm conjuring up innovative solutions to real-world problems. With a strong background in full-stack web development, database management, and a sprinkle of machine learning, I bring a diverse skill set to the table. 🎓
+I'm a detail-oriented final year Computer Science student with a passion for coding and a penchant for problem-solving. By day, I'm immersed in the world of algorithms and data structures, and by night, I'm conjuring up innovative solutions to real-world problems. With a strong background in full-stack web development, database management, and a sprinkle of machine learning, I bring a diverse skill set to the table. 🎓
 
 ## What I Bring to the Table
 
