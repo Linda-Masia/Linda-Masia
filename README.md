@@ -1,4 +1,4 @@
-# Welcome to My GitHub Repository! 🚀
+# Welcome to My GitHub Repository!
 
 [![Detail-Oriented](https://img.shields.io/badge/Detail--Oriented-Yes-brightgreen)](https://github.com/Linda-Masia)
 [![Leadership](https://img.shields.io/badge/Leadership-Intermediate-yellow)](https://github.com/Linda-Masia)
@@ -6,29 +6,40 @@
 
 ## About Me
 
-I'm a detail-oriented final year Computer Science student with a passion for coding and a penchant for problem-solving. By day, I'm immersed in the world of algorithms and data structures, and by night, I'm conjuring up innovative solutions to real-world problems. With a strong background in full-stack web development, database management, and a sprinkle of machine learning, I bring a diverse skill set to the table. 🎓
+I’m a Computer Science Honours graduate with a strong analytical and engineering mindset, currently pursuing an *M.IT in Big Data Science* at the University of Pretoria. My studies focus on *big data platforms, distributed systems, cloud computing, and data-driven solutions*, alongside hands-on exposure to *cybersecurity, secure system design, and enterprise IT environments*. I also work with *cloud platforms such as Microsoft Azure* and tools for scalable, secure application development.
+
+As a *Graduate Intern at PSG Group*, I support IT operations across multiple subsidiaries. This role provides real-world experience *in cloud infrastructure, software engineering, cybersecurity, and secure system design*, allowing me to contribute to *resilient, scalable, and enterprise-grade IT solutions* while collaborating across cross-functional teams.
 
 ## What I Bring to the Table
 
-- **Technical Expertise**: I specialize in full-stack web development, utilizing frameworks like Angular and React for front-end magic, and Node.js for server-side sorcery. Database management with MySQL and Supabase adds depth to my skill set.
+- **Technical Expertise**: Skilled in full-stack web development (Angular, React), Node.js, databases (MySQL, MongoDB, Supabase), cloud platforms (Azure), and implementing security-focused solutions.
 
 - **Design Patterns and Concurrent Programming**: Proficient in implementing design patterns and concurrent programming in Java, ensuring scalable and efficient solutions.
+  
+- **Engineering & Security Practices**: Experienced in cybersecurity fundamentals, secure coding, design patterns, concurrent programming in Java, automated testing, and agile development methodologies.
 
-- **Mentorship**: I'm passionate about helping others succeed in their coding journey. Whether it's troubleshooting bugs or sharing best practices, I'm here to support my teammates every step of the way. 🌟
+- **Collaboration & Mentorship**: Actively support peers and teams, sharing knowledge, troubleshooting challenges, and fostering a collaborative learning environment. 🌟
 
 ## Skills 🛠️
 
 **Languages**:
 
-[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/) [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/) [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/) [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/) [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/) [![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.java.com/) [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/) [![SQL](https://img.icons8.com/?size=48&id=J6KcaRLsTgpZ&format=png&color=000000)](https://www.w3schools.com/sql/)
 
 **Frameworks/Libraries**:
 
-[![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](https://angular.io/) [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/) [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
+[![Angular](https://img.icons8.com/color/48/000000/angularjs.png)](https://angular.io/) [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/) [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/) [![PyTorch](https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000)](https://pytorch.org/) [![Flutter](https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png&color=000000)](https://flutter.dev/)
 
-**Databases**: 
 
-[![MySQL](https://img.icons8.com/color/48/000000/mysql.png)](https://www.mysql.com/) [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/) [![Supabase](https://img.shields.io/badge/Supabase-Proficient-green?logo=supabase&logoColor=white)](https://supabase.io/)
+
+**Databases**:
+
+[![MySQL](https://img.icons8.com/?size=58&id=hYoELNwniGhi&format=png&color=000000)](https://www.mysql.com/)[![PostgreSQL](https://img.icons8.com/?size=48&id=JRnxU7ZWP4mi&format=png&color=000000)](https://www.postgresql.org/) [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/) [![Supabase](https://img.icons8.com/?size=48&id=sH0rW2TvYdr9&format=png&color=000000)](https://supabase.io/)
+
+**Cloud Computing**:
+
+[![Azure](https://img.icons8.com/?size=48&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/) [![AWS](https://img.icons8.com/?size=48&id=33039&format=png&color=000000)](https://aws.amazon.com/)
+
 
 **Other Skills**: 
 
@@ -38,4 +49,4 @@ I'm a detail-oriented final year Computer Science student with a passion for cod
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/linda-masia)
 
-Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project. Happy coding! 🚀🌟
+Feel free to explore my repositories and reach out if you'd like to connect or collaborate on a project.
